@@ -6,7 +6,7 @@ favicon: /-/shivamkuwale.github.io/portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
-
+-- fastn.dependency: ayushsoi1010.github.io/ui-packages
 -- fastn.auto-import: ds
 -- fastn.auto-import: shivamkuwale.github.io/portfolio/FASTN/my-ds
 -- fastn.auto-import: shivamkuwale.github.io/portfolio/assets
